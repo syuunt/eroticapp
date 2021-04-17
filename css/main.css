@@ -14,12 +14,34 @@
     font-size: 4vmin;
     color: rgb(0, 47, 70);
   }
-   p{
+  p{
     color: rgb(255, 30, 79);
+
+  }
+}
+
+
+
+  @media screen and (min-width: 561px)  {
+    header{
+      background-color: rgb(0, 96, 164);
+    }
+    header > h1{
+      color: aliceblue;
+      text-align:center
+  
+  
+    }
+    
+    section > h2{
+      font-size: 4vmin;
+      color: rgb(0, 47, 70);
+    }
+    p{
+      color: rgb(255, 30, 79);
+  
+    }
 
   }
 
 
-
-
-}
