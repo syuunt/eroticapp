@@ -15,8 +15,8 @@
     color: rgb(0, 47, 70);
   }
   p{
-    color: rgb(255, 30, 79);
-
+    color: rgb(245, 0, 0);
+    font-size: 4vmin;
   }
 }
 
@@ -38,8 +38,8 @@
       color: rgb(0, 47, 70);
     }
     p{
-      color: rgb(255, 30, 79);
-  
+      color: rgb(245, 0, 0);
+      font-size: 4vmin;
     }
 
   }
